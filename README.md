@@ -2,6 +2,10 @@
 
 Convert say commands into mp3 files, on the fly.
 
+### Requirements
+
+lame - install with `brew install lame`
+
 ### Install
 
 ```
